@@ -1,0 +1,27 @@
+
+table{
+    width: 100%;
+}
+#Bottoms {
+text-align: left;
+margin-bottom: 5px;
+}
+#Topping{
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+#Bottoms tr:nth-child(even) {
+    background-color: #f2f2f2;}
+
+#Topping tr:nth-child(even) {
+    background-color: #f2f2f2;}
+
+.Barnav{
+    background: silver ;
+    align-content: center;
+}
+
+#Bund{
+    width: 100px;
+}
